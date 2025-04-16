@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u85rszs4a-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/u85rszs4a-nodejs
